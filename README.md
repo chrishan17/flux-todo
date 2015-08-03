@@ -1,5 +1,5 @@
-# react-boilerplate
+# react-todo-gulp
 
-Quickstart project template for building `npm` modules with React and JSX.
+An React todo component with gulp.
 
-Just `npm install` and `npm run build` when you're done. Use `npm start` to continuously build.
+Just `npm install` and `npm start`.
